@@ -1,9 +1,13 @@
 # Expenses App
 
-<img src="/appImages/01.png" width="250" height="472" />
-<img src="/appImages/02.png" width="250" height="472" />
-<img src="/appImages/03.png" width="250" height="472" />
-<img src="/appImages/04.png" width="250" height="472" />
+<div>
+<img style="display:inline;" src="/appImages/01.png" width="250" height="472" />
+<img style="display:inline;" src="/appImages/02.png" width="250" height="472" />
+</div>
+<div>
+<img style="display:inline;" src="/appImages/03.png" width="250" height="472" />
+<img style="display:inline;" src="/appImages/04.png" width="250" height="472" />
+</div>
 
 This is a project created from the classes of the [Leonardo's Flutter Course](https://www.udemy.com/course/curso-flutter/) (in PT-BR).
 
