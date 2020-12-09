@@ -1,10 +1,21 @@
-# expenses
+# Expenses App
 
-A new Flutter project.
+<img src="/appImages/01.png" width="250" height="472" />
+<img src="/appImages/02.png" width="250" height="472" />
+<img src="/appImages/03.png" width="250" height="472" />
+<img src="/appImages/04.png" width="250" height="472" />
+
+This is a project created from the classes of the [Leonardo's Flutter Course](https://www.udemy.com/course/curso-flutter/) (in PT-BR).
+
+The app proposal is to give to user the control over your expenses by showing a list of transactions organized by date.
+
+At the top of the main page there is a chart with the last seven days and the distribution of the expenses by the percentage that each day represents.
+
+The user can add a new transaction by touching on the floating button at the bottom or in the button located at the app top bar.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was created by a starting boilerplate for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
